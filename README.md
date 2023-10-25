@@ -26,7 +26,7 @@
 
 - •
 
-  💻  C# | VB | SQL | Java
+  💻  C# |  SQL | Java
 
 - •
 
