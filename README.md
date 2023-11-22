@@ -37,11 +37,13 @@
 - •
 
   🔧  AWS | Docker🐳 | Firebase | flask
+[![streak](https://img.shields.io/endpoint?url=https://codeium.com/badges/user/seriously-nourished-whitebait-63000/streak)](https://codeium.com/profile/seriously-nourished-whitebait-63000)
 
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loongtech&show_icons=true)](https://github.com/Loongtech)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loongtech&show_icons=true)
 
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com/badges/main)
 ------
 
 ###  🤝🏻 Connect with Me 
